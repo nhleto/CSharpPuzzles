@@ -1,0 +1,12 @@
+/Users/NHleto/Desktop/theOdinProject/CSharp/CSharpPuzzles/bin/Debug/netcoreapp3.1/CSharpPuzzles.deps.json
+/Users/NHleto/Desktop/theOdinProject/CSharp/CSharpPuzzles/bin/Debug/netcoreapp3.1/CSharpPuzzles.runtimeconfig.json
+/Users/NHleto/Desktop/theOdinProject/CSharp/CSharpPuzzles/bin/Debug/netcoreapp3.1/CSharpPuzzles.runtimeconfig.dev.json
+/Users/NHleto/Desktop/theOdinProject/CSharp/CSharpPuzzles/bin/Debug/netcoreapp3.1/CSharpPuzzles.dll
+/Users/NHleto/Desktop/theOdinProject/CSharp/CSharpPuzzles/bin/Debug/netcoreapp3.1/CSharpPuzzles.pdb
+/Users/NHleto/Desktop/theOdinProject/CSharp/CSharpPuzzles/obj/Debug/netcoreapp3.1/CSharpPuzzles.csprojAssemblyReference.cache
+/Users/NHleto/Desktop/theOdinProject/CSharp/CSharpPuzzles/obj/Debug/netcoreapp3.1/CSharpPuzzles.AssemblyInfoInputs.cache
+/Users/NHleto/Desktop/theOdinProject/CSharp/CSharpPuzzles/obj/Debug/netcoreapp3.1/CSharpPuzzles.AssemblyInfo.cs
+/Users/NHleto/Desktop/theOdinProject/CSharp/CSharpPuzzles/obj/Debug/netcoreapp3.1/CSharpPuzzles.csproj.CoreCompileInputs.cache
+/Users/NHleto/Desktop/theOdinProject/CSharp/CSharpPuzzles/obj/Debug/netcoreapp3.1/CSharpPuzzles.dll
+/Users/NHleto/Desktop/theOdinProject/CSharp/CSharpPuzzles/obj/Debug/netcoreapp3.1/CSharpPuzzles.pdb
+/Users/NHleto/Desktop/theOdinProject/CSharp/CSharpPuzzles/obj/Debug/netcoreapp3.1/CSharpPuzzles.genruntimeconfig.cache
